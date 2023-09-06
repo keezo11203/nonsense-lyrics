@@ -1,6 +1,6 @@
 import openai
 
-api_key = "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"
+api_key = "your_own_api_key"
 
 # Prompt for generating lyrics
 prompt = """
